@@ -13,6 +13,9 @@
     "components/jquery": "*"
   },
   "main": "js/bootstrap.js",
+  "styles": [
+    "css/bootstrap.min.css"
+  ],
   "scripts": [
     "js/bootstrap.js"
   ],
